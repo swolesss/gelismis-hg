@@ -1,2 +1,1 @@
-# gelismis-hg
-hg bb
+Hesapda paylaşılan hiçbir altyapı bana ait değildir
